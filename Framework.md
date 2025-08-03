@@ -1,8 +1,3 @@
-Great. I’ll put together a comprehensive system design framework tailored for FAANG interviews. It will cover general-purpose design strategies applicable across domains, real examples like designing Instagram or Uber, and guidance on how to approach the interview dialogue itself. I’ll also include the best tools and resources for practicing and validating your designs.
-
-I’ll get started and let you know once it’s ready for your review.
-
-
 # System Design Interview Framework for FAANG Preparation
 
 ## Introduction
